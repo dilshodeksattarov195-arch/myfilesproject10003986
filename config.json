@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploaderfetch",
+        "uuid": 23708728,
+        "checksum": "bugmyd"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "production"
+    }
+}
